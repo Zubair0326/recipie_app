@@ -1,0 +1,85 @@
+{
+    "categories": [
+      {
+        "name": "Italian",
+        "recipes": [
+          {
+            "name": "Margherita Pizza",
+            "image": "assets/images/margherita_pizza.jpg",
+            "ingredients": [
+              "Pizza dough",
+              "Tomato sauce",
+              "Mozzarella cheese",
+              "Fresh basil"
+            ]
+          },
+          {
+            "name": "Pasta Carbonara",
+            "image": "assets/images/pasta_carbonara.jpg",
+            "ingredients": [
+              "Spaghetti",
+              "Egg yolks",
+              "Parmesan cheese",
+              "Pancetta",
+              "Black pepper"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Punjabi",
+        "recipes": [
+          {
+            "name": "Butter Chicken",
+            "image": "assets/images/butter_chicken.jpg",
+            "ingredients": [
+              "Chicken",
+              "Butter",
+              "Tomatoes",
+              "Cream",
+              "Spices"
+            ]
+          },
+          {
+            "name": "Sarson da Saag",
+            "image": "assets/images/sarson_saag.jpg",
+            "ingredients": [
+              "Mustard greens",
+              "Spinach",
+              "Corn flour",
+              "Ginger",
+              "Green chilies"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gujarati",
+        "recipes": [
+          {
+            "name": "Dhokla",
+            "image": "assets/images/dhokla.jpg",
+            "ingredients": [
+              "Gram flour",
+              "Yogurt",
+              "Green chilies",
+              "Mustard seeds",
+              "Coriander leaves"
+            ]
+          },
+          {
+            "name": "Handvo",
+            "image": "assets/images/handvo.jpg",
+            "ingredients": [
+              "Rice",
+              "Lentils",
+              "Bottle gourd",
+              "Spices",
+              "Curd"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

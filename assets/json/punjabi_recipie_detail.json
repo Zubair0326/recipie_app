@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Butter Chicken",
+      "image": "assets/images/butter_chicken.jpg",
+      "ingredients": "Chicken, Butter, Cream, Tomato, Garlic, Ginger, Garam masala",
+      "servings": "4"
+    },
+    {
+      "name": "Sarson Da Saag",
+      "image": "assets/images/sarson_da_saag.jpg",
+      "ingredients": "Mustard leaves, Spinach, Cornmeal, Garlic, Ginger, Ghee",
+      "servings": "4"
+    },
+    {
+      "name": "Aloo Paratha",
+      "image": "assets/images/aloo_paratha.jpg",
+      "ingredients": "Wheat flour, Potato, Green chilies, Garam masala, Yogurt",
+      "servings": "2"
+    },
+    {
+      "name": "Chole Bhature",
+      "image": "assets/images/chole_bhature.jpg",
+      "ingredients": "Chickpeas, Flour, Onion, Tomato, Ginger, Garlic, Spices",
+      "servings": "4"
+    },
+    {
+      "name": "Amritsari Fish",
+      "image": "assets/images/amritsari_fish.jpg",
+      "ingredients": "Fish, Gram flour, Rice flour, Ginger, Garlic, Spices",
+      "servings": "2"
+    },
+    {
+      "name": "Lassi",
+      "image": "assets/images/lassi.jpg",
+      "ingredients": "Yogurt, Sugar, Water, Ice cubes, Rose water",
+      "servings": "2"
+    }
+  ]
+  

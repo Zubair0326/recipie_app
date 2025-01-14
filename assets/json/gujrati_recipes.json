@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Dhokla",
+      "image": "assets/images/dhokla.jpg",
+      "ingredients": "Rice, Chickpea flour, Yogurt, Ginger, Green chilies, Mustard seeds",
+      "servings": "4"
+    },
+    {
+      "name": "Undhiyu",
+      "image": "assets/images/undhiyu.jpg",
+      "ingredients": "Eggplant, Sweet potato, Potatoes, Beans, Green chilies, Garam masala",
+      "servings": "6"
+    },
+    {
+      "name": "Khandvi",
+      "image": "assets/images/khandvi.jpg",
+      "ingredients": "Chickpea flour, Yogurt, Mustard seeds, Green chilies, Coconut, Sesame seeds",
+      "servings": "4"
+    },
+    {
+      "name": "Thepla",
+      "image": "assets/images/thepla.jpg",
+      "ingredients": "Whole wheat flour, Fenugreek leaves, Spices, Yogurt",
+      "servings": "4"
+    },
+    {
+      "name": "Farsan",
+      "image": "assets/images/farsan.jpg",
+      "ingredients": "Rice flour, Chickpea flour, Spices, Salt",
+      "servings": "2"
+    },
+    {
+      "name": "Gujarati Kadhi",
+      "image": "assets/images/gujarati_kadhi.jpg",
+      "ingredients": "Yogurt, Gram flour, Mustard seeds, Curry leaves, Green chilies",
+      "servings": "4"
+    }
+  ]
+  

@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Pizza Margherita",
+      "image": "assets/images/pizza.jpg",
+      "ingredients": "Flour, Yeast, Tomatoes, Mozzarella, Basil, Olive oil",
+      "servings": "2"
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "image": "assets/images/spegetti.jpg",
+      "ingredients": "Spaghetti, Eggs, Cheese, Bacon, Black pepper",
+      "servings": "4"
+    }
+  ]
+  
